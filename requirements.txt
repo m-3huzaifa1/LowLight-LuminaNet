@@ -1,0 +1,6 @@
+torch
+pytorch_ssim
+skimage
+torchvision
+numpy
+
