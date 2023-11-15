@@ -1,7 +1,7 @@
 #   Lumina_Net
 The implementaion is taken from Zero-DCE++. It is the improved version of Zero_DCE++ with relatively high psnr on low training parameters.
 
-![screencapture-colab-Zero_DCE](https://github.com/m-3huzaifa1/LowLight-LuminaNet/assets/112268278/54330d55-b2aa-4045-b8e5-b50166f4db32)
+![screencapture-colab-Zero_DCE](https://github.com/m-3huzaifa1/LowLight-LuminaNet/assets/112268278/79f5a5d1-7309-41b1-865f-c0c874dcff88)
 
 # Pytorch
 Pytorch implementation of Low Light LuminaNet: An Enhanced Version of Zero_DCE++
