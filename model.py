@@ -43,8 +43,8 @@ class CSDN_Tem(nn.Module):
 
     def forward(self, input):
         out = self.depth_conv(input)
+	out = self.point_conv(out)
         out = self.depth_conv2(out)
-        out = self.point_conv(out)
         out = self.point_conv2(out)
         return out
 
